@@ -47,6 +47,9 @@ roslaunch zxcar_rl start_rl_gazebo.launch
 ## 三、启动ppo训练gazebo中的小车
 新建终端并进入工作空间，先后执行:
 ```
+source 你的pytorch环境
+```
+```
 source ./devel/setup.bash
 ```
 ```
