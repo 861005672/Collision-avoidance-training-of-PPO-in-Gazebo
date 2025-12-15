@@ -2,8 +2,8 @@
 
 ## 效果演示
 <figure class="half">
-    <img src="http://xxx.jpg">
-    <img src="http://yyy.jpg">
+    <img src="https://github.com/861005672/Collision-avoidance-training-of-PPO-in-Gazebo/blob/main/PPO算法演示1.gif">
+    <img src="https://github.com/861005672/Collision-avoidance-training-of-PPO-in-Gazebo/blob/main/PPO算法演示2.gif">
 </figure>
 
 ## 概述
