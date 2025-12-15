@@ -60,7 +60,7 @@ rosrun zxcar_rl ppo_train.py --car_name car1
 ```
 $(工作空间)/zxcar_rl/scripts/ppo/runs
 ```
-中，在该目录下执行指令:
+中(需要在rosrun zxcar_rl ppo_train.py时加参数 --Write True ，才会记录，其他相关参数配置参考ppo_train.py)，在该目录下执行指令:
 ```
 tensorboard --logdir .
 ```
